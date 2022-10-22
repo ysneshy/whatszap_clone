@@ -1,0 +1,320 @@
+{
+  "conversation_list": [
+    {
+      "contactName": "elivelton",
+      "lastMessage": "Última mensagem enviada pelo elivelton",
+      "lastTime": "19:15",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Temos aula na faculdade hoje?"
+        },
+        {
+          "me": false ,
+          "message": "Hoje não, apenas amanhã. Não esqueça os trabalhos..."
+        }
+      ]
+    },
+    {
+      "contactName": "sara",
+      "lastMessage": "Última mensagem enviada pelo sara",
+      "lastTime": "05:43",
+      "image": "avatar2.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Já viu aquela série que está bombando na Netflix?"
+        },
+        {
+          "me": true ,
+          "message": "Vi sim, achei o máximo e mal posso esperar pela próxima temporada!!!"
+        }
+      ]
+    },
+    {
+      "contactName": "valaria",
+      "lastMessage": "Última mensagem enviada pelo valeria",
+      "lastTime": "11:22",
+      "image": "avatar2.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "pablo",
+      "lastMessage": "Última mensagem enviada pelo Pablo",
+      "lastTime": "10:36",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "Patrick",
+      "lastMessage": "Última mensagem enviada pelo Patrick",
+      "lastTime": "14:15",
+      "image": "avatar2.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "roger",
+      "lastMessage": "Última mensagem enviada pelo roger",
+      "lastTime": "17:27",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "gabriel",
+      "lastMessage": "Última mensagem enviada pelo gabriel",
+      "lastTime": "18:16",
+      "image": "avatar3.png",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "marcelia",
+      "lastMessage": "Última mensagem enviada pelo marcelia",
+      "lastTime": "07:24",
+      "image": "avatar2.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "caco",
+      "lastMessage": "Última mensagem enviada pelo caco",
+      "lastTime": "20:46",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "miminha",
+      "lastMessage": "Última mensagem enviada pelo miminha",
+      "lastTime": "13:18",
+      "image": "avatar2.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "rafael",
+      "lastMessage": "Última mensagem enviada pelo rafael",
+      "lastTime": "14:33",
+      "image": "avatar2.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "jao",
+      "lastMessage": "Última mensagem enviada pelo jao",
+      "lastTime": "19:42",
+      "image": "avatar3.png",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "muniz",
+      "lastMessage": "Última mensagem enviada pelo muniz",
+      "lastTime": "16:13",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "Marcos",
+      "lastMessage": "Última mensagem enviada pelo Marcos",
+      "lastTime": "22:36",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "Alberto",
+      "lastMessage": "Última mensagem enviada pelo Alberto",
+      "lastTime": "21:27",
+      "image": "avatar3.png",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    },
+    {
+      "contactName": "Bianca",
+      "lastMessage": "Última mensagem enviada pelo Bianca",
+      "lastTime": "12:18",
+      "image": "avatar2.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Olá tudo bem com você?"
+        },
+        {
+          "me": false ,
+          "message": "Tudo ótimo e com você?"
+        },
+        {
+          "me": false ,
+          "message": "Amanhã você irá no churrasco?"
+        }
+      ]
+    }
+  ]
+}
